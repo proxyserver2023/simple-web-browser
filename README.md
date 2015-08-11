@@ -1,4 +1,4 @@
-# Web-Browser-in-C-
+# Web-Browser-in-C-Sharp
 this is a simple web browser in C#
 
 this is a winform application made by visual C#. 
